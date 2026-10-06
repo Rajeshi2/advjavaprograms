@@ -1,0 +1,14 @@
+8a) Write JSP code to greet a user 
+8b) Write JSP code to perform addition of two numbers 
+8c) Write JSP code to make use the Bean 
+
+9a) Create a JSP application to perform user authentication.
+9b) Create a JSP application to register a new student into database.
+
+10a) JSTL Core Tags Demos 
+10b) Create custom tag using JSTL to print Hello Message. 
+
+Assignment-2
+a) Create a servlet application to register a new user.
+b) Create a JSP application to retrive all users data.
+
